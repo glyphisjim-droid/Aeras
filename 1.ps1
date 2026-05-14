@@ -1,1 +1,1 @@
-Start-Process cmd.exe "/k echo hi && color a"
+Start-Process "https://www.youtube.com"
