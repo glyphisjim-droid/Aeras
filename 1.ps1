@@ -1,0 +1,1 @@
+Start-Process cmd.exe "/k echo hi && color a"
